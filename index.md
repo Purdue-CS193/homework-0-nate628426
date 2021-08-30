@@ -8,6 +8,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Nathan Lo #
+``` Computer Science @ Purdue, 2025```
+## About Me##
+ - He/Him
+ - Computer Science Freshmen
+ - College of Science
+### Hometown ###
+1. New Jersey
+2. _Monmouth County_
+3. **Holmdel**
+
 ```markdown
 Syntax highlighted code block
 
