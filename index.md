@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # Nathan Lo #
 ``` Computer Science @ Purdue, 2025```
-## About Me##
+## About Me ##
  - He/Him
  - Computer Science Freshmen
  - College of Science
